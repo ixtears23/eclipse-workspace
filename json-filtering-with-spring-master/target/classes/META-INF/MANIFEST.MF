@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: json-filtering-with-spring
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: junseok
+Implementation-Vendor-Id: com.samkruglov
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://samkruglov.wordpress.com/2018/01/07/json-f
+ iltering-with-spring/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
