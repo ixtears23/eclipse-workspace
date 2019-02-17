@@ -1,6 +1,7 @@
 
 
-# pattern Á¤¸®!!!
+# pattern ÃÂ¤Â¸Â®!!!
 
 1. pattern.sample.facade.ex1  
-  - [ÃâÃ³: facade-pattern](https://dzone.com/articles/the-facade-pattern)  
+  - [ÃƒÃ¢ÃƒÂ³: facade-pattern](https://dzone.com/articles/the-facade-pattern)  
+  
